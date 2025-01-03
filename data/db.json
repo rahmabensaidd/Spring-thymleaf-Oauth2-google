@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "f7f9",
+      "name": "nouveau produit",
+      "price": 12,
+      "checked": true
+    },
+    {
+      "id": "a6c7",
+      "name": "hjhhh",
+      "price": 2,
+      "checked": true
+    },
+    {
+      "id": "eb7f",
+      "name": "Rahma Ben Said",
+      "price": 1,
+      "checked": "true"
+    }
+  ]
+}
