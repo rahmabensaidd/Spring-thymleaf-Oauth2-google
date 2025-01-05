@@ -28,7 +28,7 @@
             <ul class="navbar  me-3">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-                        [Username]
+                      <span th:text="${#authentication.name}"> </span>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#">Login</a></li>

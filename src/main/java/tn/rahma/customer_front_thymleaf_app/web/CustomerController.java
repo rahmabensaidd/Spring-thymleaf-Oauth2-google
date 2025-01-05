@@ -37,9 +37,9 @@ public class CustomerController {
     public Authentication authentication(Authentication authentication){
 return  authentication;
     }
-   /* @GetMapping("/")
+    @GetMapping("/")
     public String index(Model model){
         return "index" ; //nom de la page
-    }*/ //pour ne pas afficher index lors de la deconnexion
+    }//pour ne pas afficher index lors de la deconnexion
 
 }
